@@ -1,0 +1,26 @@
+table{
+    border-collapse: collapse;
+    color:brown;
+    width:80%;
+}
+
+th{
+    color:darkblue;
+    background-color: darkgoldenrod;
+}
+
+h1,h2{
+    background-color: chartreuse;
+    text-align: center;
+    
+}
+nav{
+    background-color: bisque;
+    padding:10px;
+    
+    text-align: center;
+}
+nav a{
+    color:chocolate;
+    margin-right: 80px;
+}
